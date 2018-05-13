@@ -17,6 +17,12 @@
     "email": "compulim@hotmail.com",
     "name": "William Wong"
   },
+  "keywords": [
+    "messagechannel",
+    "messageport",
+    "websocket",
+    "webworker"
+  ],
   "license": "MIT",
   "devDependencies": {
     "babel-cli": "^6.26.0",
